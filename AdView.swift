@@ -2,7 +2,7 @@
 //  AdView.swift
 //  
 //  Created by lzqok on 2016/12/20.
-//  Copyright © lzqok lzqok. All rights reserved.
+//  Copyright © 2016年 lzqok. All rights reserved.
 //
 
 import UIKit
